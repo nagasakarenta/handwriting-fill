@@ -1,0 +1,14 @@
+# build output
+dist/
+__pycache__/
+.DS_Store
+
+# personal handwriting data must never be committed
+bank.json
+*_bank.json
+*_strokes.json
+strokes.json
+ink.json
+*_spec.json
+*.pdf
+*.png
